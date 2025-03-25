@@ -20,7 +20,7 @@ Aquest repositori conté les tres visualitzacions creades per a la PAC2 de l’a
 
 ---
 
-## 🌡 Visualització 3: Horizon Graph
+##  Visualització 3: Horizon Graph
 **Tema:** Evolució horària de la temperatura a 2 metres d’altura a Barcelona el dia 01/01/2001.  
 **Fitxer:**
 - `horizont chart.png`: Horizon Graph que mostra els cicles de temperatura diaris.
