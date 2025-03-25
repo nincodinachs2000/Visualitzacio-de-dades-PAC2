@@ -2,7 +2,7 @@
 
 Aquest repositori conté les tres visualitzacions creades per a la PAC2 de l’assignatura de Visualització de Dades.
 
-## 📊 Visualització 1: Infografia
+##  Visualització 1: Infografia
 **Tema:** Huracà Kate  
 **Fitxers:**
 - `Infografia.pdf`: infografia dissenyada sobre l’origen, evolució i impacte de l’huracà Kate.
@@ -11,7 +11,7 @@ Aquest repositori conté les tres visualitzacions creades per a la PAC2 de l’a
 
 ---
 
-## 📈 Visualització 2: Boxplot (NBA)
+##  Visualització 2: Boxplot (NBA)
 **Tema:** Comparativa de punts per partit segons la posició dels jugadors NBA.  
 **Fitxer:**
 - `Boxplot.png`: gràfic en format boxplot creat amb Flourish.
@@ -20,7 +20,7 @@ Aquest repositori conté les tres visualitzacions creades per a la PAC2 de l’a
 
 ---
 
-## 🌡️ Visualització 3: Horizon Graph
+## 🌡 Visualització 3: Horizon Graph
 **Tema:** Evolució horària de la temperatura a 2 metres d’altura a Barcelona el dia 01/01/2001.  
 **Fitxer:**
 - `horizont chart.png`: Horizon Graph que mostra els cicles de temperatura diaris.
@@ -29,7 +29,7 @@ Aquest repositori conté les tres visualitzacions creades per a la PAC2 de l’a
 
 ---
 
-## 🔗 Autoria
+##  Autoria
 **Autor:** *Nin codinachs Bosch*  
 **GitHub:** [https://github.com/nincodinachs2000](https://github.com/nincodinachs2000)
 
