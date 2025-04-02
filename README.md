@@ -31,5 +31,5 @@ Aquest repositori conté les tres visualitzacions creades per a la PAC2 de l’a
 
 ##  Autoria
 **Autor:** *Nin Codinachs Bosch*  
-**GitHub:** (https://github.com/nincodinachs2000/](https://github.com/nincodinachs2000/Visualitzacio-de-dades-PAC2))
+**GitHub:** (https://github.com/nincodinachs2000/Visualitzacio-de-dades-PAC2)
 
